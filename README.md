@@ -1,1 +1,45 @@
-# Code Refactor Starter Code
+# < The Horiseon Website >
+
+## Description
+
+We were given a website to modify to ensure that all html best practices were followed as well as enabling any
+functionality of the website that may not be working
+
+## Table of Contents (Optional)
+
+## Installation
+
+This project can be accessed and run using the following gitlab URL's
+
+
+## Usage
+
+The Horiseon website consists of two web pages (see below)
+
+![Horiseon webpage page 1](/assets/images/Horiseon%20webpage%20-%20page%201.png)
+![Horiseon webpage page 2](/assets/images/Horiseon%20webpage%20-%20page%202.png)
+
+## Credits
+
+Martin Harshman - Associate Developer
+
+## License
+
+N/A
+
+
+## Badges
+
+N/A
+
+## Features
+
+N/A
+
+## How to Contribute
+
+If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+## Tests
+
+N/A
