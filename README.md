@@ -7,7 +7,7 @@ functionality of the website that may not be working
 
 ## Installation
 
-This project can be accessed and run using the following gitlab repository
+This project can be accessed and run using the following github repository
 
 https://github.com/mharshman1/week1-challenge
 
