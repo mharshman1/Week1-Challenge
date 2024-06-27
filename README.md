@@ -11,7 +11,6 @@ functionality of the website that may not be working
 
 This project can be accessed and run using the following gitlab URL's
 
-
 ## Usage
 
 The Horiseon website consists of two web pages (see below)
@@ -27,7 +26,6 @@ Martin Harshman - Associate Developer
 
 N/A
 
-
 ## Badges
 
 N/A
@@ -35,10 +33,6 @@ N/A
 ## Features
 
 N/A
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
 ## Tests
 
